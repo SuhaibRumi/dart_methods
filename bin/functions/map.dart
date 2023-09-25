@@ -22,8 +22,8 @@ void main(List<String> args) {
     return e;
   }).toList();
 
-
   // print(arr);
   print(b);
   print(sum);
+  print(arr);
 }
